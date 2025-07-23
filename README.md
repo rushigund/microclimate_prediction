@@ -3,29 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>microclimate_prediction</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #f4f4f4;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    .image-gallery img {
-      max-width: 100%;
-      height: auto;
-      border: 1px solid #ccc;
-      margin: 10px 0;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 4px;
-      font-family: monospace;
-    }
-  </style>
+
 </head>
 <body>
 
