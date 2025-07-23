@@ -33,7 +33,7 @@
   <p>A short description of your project goes here. Describe what it does, what tech it uses, and why it's useful.</p>
 
   <h2>📥 Installation</h2>
-  <pre><code>git clone https://github.com/your-username/your-repo.git
+  <pre><code>git clone https://github.com/rushigund/microclimate_prediction.git
 cd your-repo
 pip install -r requirements.txt</code></pre>
 
