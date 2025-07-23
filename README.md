@@ -28,10 +28,10 @@
     <h3>Original Image</h3>
     <img src="Dashbards/download.png" alt="Original Input Image">
 
-    <h3>Processed Output</h3>
+    <!--<h3>Processed Output</h3>
     <img src="images/output.jpg" alt="Processed Output Image">
 
-    <!-- Add more images as needed -->
+    <!-- Add more images as needed -->-->
   </div>
 
   <h2>🤝 Contributing</h2>
