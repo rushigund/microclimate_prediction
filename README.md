@@ -21,7 +21,7 @@
 
   <h2>🚀 Usage</h2>
   <p>Explain how to run or use your project:</p>
-  <pre><code>python main.py --input input.jpg --output output.jpg</code></pre>
+  <pre><code>python microclimate_predication.py</code></pre>
 
   <h2>🖼️ Output Images</h2>
   <div class="image-gallery">
