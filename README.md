@@ -31,7 +31,7 @@
   </div>
 
   <h2>🤝 Contributing</h2>
-  <p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.</p>
+  <p>Pull requests are always welcome. For major changes, please open an issue first to discuss what you would like to change. Kindly create a branch and raise a pull request</p>
 
   <h2>📄 License</h2>
   <p>This project is licensed under the MIT License - see the <code>LICENSE</code> file for details.</p>
