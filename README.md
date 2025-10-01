@@ -14,7 +14,7 @@
   <pre>
     <code>
       git clone https://github.com/rushigund/microclimate_prediction.git
-      cd your-repo
+      cd microclimate_prediction
       pip install -r requirements.txt
     </code>
   </pre>
