@@ -17,7 +17,7 @@ Currently, planning for urban greening often relies on generalized climate data 
 
 Project's Goal:
 
-Develop an AI/ML model that, given a set of urban design parameters (e.g., building height, material, existing green cover, proposed plant types, density, orientation) and general weather forecasts, can predict key microclimate indicators (e.g., localized temperature reduction, humidity levels, particulate matter dispersion) for a specific urban area.
+1. Develop an AI/ML model that, given a set of urban design parameters (e.g., building height, material, existing green cover, proposed plant types, density, orientation) and general weather forecasts, can predict key microclimate indicators (e.g., localized temperature reduction, humidity levels, particulate matter dispersion) for a specific urban area.
 
 Why this problem statement is likely novel:
 
