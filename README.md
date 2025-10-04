@@ -19,7 +19,7 @@ Project's Goal:
 
 1. Develop an AI/ML model that, given a set of urban design parameters (e.g., building height, material, existing green cover, proposed plant types, density, orientation) and general weather forecasts, can predict key microclimate indicators (e.g., localized temperature reduction, humidity levels, particulate matter dispersion) for a specific urban area.
 
-Why this problem statement is likely novel:
+Why this problem statement is likely be novel:
 
 While there are projects on urban heat island effect, climate modeling, and even some AI in urban planning, very few (if any) focus on:
 
