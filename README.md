@@ -43,7 +43,7 @@ Urban Design Databases (simulated): Parameters like building materials (albedo, 
 
 Feature Engineering: Extracting features like sky view factor, average building height in a radius, density of impermeable surfaces, "green volume" instead of just green area.
 
-Modeling Techniques:()
+Modeling Techniques:
 
 Regression Models (e.g., Random Forest, Gradient Boosting, Neural Networks): To predict continuous values like temperature reduction, humidity changes.
 
