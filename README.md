@@ -59,7 +59,7 @@ Transfer Learning: Potentially using pre-trained models on satellite imagery or 
 
 Output & Evaluation:
 
-Visualizations: Heatmaps of predicted temperature changes, airflow patterns over the urban landscape.
+Visualizations: Heatmaps of predicted temperature changes, airflow patterns over the urban .
 
 Metrics: RMSE for temperature prediction, R-squared for overall model fit, possibly specialized metrics for microclimate validation.
 
