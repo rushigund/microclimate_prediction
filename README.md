@@ -41,8 +41,6 @@ Open-source Climate Data: Historical weather data, general forecasts.
 
 Urban Design Databases (simulated): Parameters like building materials (albedo, thermal mass), building heights, street canyon ratios, proposed plant types (leaf area index, evapotranspiration rates). You might need to generate synthetic data for proposed greening designs based on plausible scenarios.
 
-Sensor Data (if available): Publicly available microclimate sensor networks in cities (though often limited in density).
-
 Feature Engineering: Extracting features like sky view factor, average building height in a radius, density of impermeable surfaces, "green volume" instead of just green area.
 
 Modeling Techniques:
