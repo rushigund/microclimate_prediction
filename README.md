@@ -76,7 +76,7 @@ Scenario Analysis: Demonstrate how different greening strategies (e.g., more tre
   </pre>
 
   <h2>🚀 Usage</h2>
-  <p>Explain how to run or use your project:</p>
+  <p>how to run or use project:</p>
   <pre><code>python microclimate_predication.py</code></pre>
 
   <h2>🖼️ Output Images</h2>
