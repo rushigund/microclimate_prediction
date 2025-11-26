@@ -47,7 +47,7 @@ Modeling Techniques:
 
 Regression Models (e.g., Random Forest, Gradient Boosting, Neural Networks): To predict continuous values like temperature reduction, humidity changes.
 
-Spatial Machine Learning/Deep Learning: Given the spatial nature of the problem, consider:
+Spatial Machine Learning/Deep Learning: Given the spatial nature of the problem, consider the below statements:
 
 Graph Neural Networks (GNNs): If you can represent urban areas as a graph (nodes for locations, edges for connectivity/influence).
 
