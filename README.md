@@ -35,7 +35,7 @@ Potential AI/ML Approaches & Techniques to Showcase:
 
 Data Collection & Feature Engineering:
 
-Satellite Imagery/LIDAR Data: For existing urban structures, vegetation, and topography.
+Satellite Imagery/LIDAR Data: For existing urban structures, vegetation, climate overview and topography.
 
 Open-source Climate Data: Historical weather data, general forecasts.
 
