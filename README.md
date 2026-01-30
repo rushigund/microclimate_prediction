@@ -35,7 +35,7 @@ Potential AI/ML Approaches & Techniques to Showcase:
 
 Data Collection & Feature Engineering:
 
-Satellite Imagery/LIDAR Data: For existing urban structures, vegetation, climate overview and topography
+Satellite Imagery/LIDAR Data: For existing urban structures, vegetation, climate overview and topography.
 
 Open-source Climate Data: Historical weather data, general forecasts.
 
@@ -47,7 +47,7 @@ Modeling Techniques:
 
 Regression Models (e.g., Random Forest, Gradient Boosting, Neural Networks): To predict continuous values like temperature reduction, humidity changes.
 
-Spatial Machine Learning/Deep Learning: Given the spatial nature of the problem, consider the below statements:
+Spatial Machine Learning/Deep Learning: Given the spatial nature of the problem, consider the below statements
 
 Graph Neural Networks (GNNs): If you can represent urban areas as a graph (nodes for locations, edges for connectivity/influence).
 
