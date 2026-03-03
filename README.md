@@ -61,7 +61,7 @@ Output & Evaluation:
 
 Visualizations: Heatmaps of predicted temperature changes, airflow patterns over the urban landscape.
 
-Metrics: RMSE for temperature prediction, R-squared for overall model fit, possibly specialized metrics for microclimate validation
+Metrics: RMSE for temperature prediction, R-squared for overall model fit, possibly specialized metrics for microclimate validation.
 
 Scenario Analysis: Demonstrate how different greening strategies (e.g., more trees, green roofs, specific plant species) affect the microclimate.
   </p>
