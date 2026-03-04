@@ -29,7 +29,7 @@ Predicting impact of proposed changes: Instead of just observing current conditi
 
 Integrating diverse urban design parameters: Combining architectural features with botanical choices for microclimate modeling.
 
-Actionable insights for urban planners: Directly informing design decisions with data-driven predictions.
+Actionable insights for urban planners: Directly informing design decisions with data-driven predictions
 
 Potential AI/ML Approaches & Techniques to Showcase:
 
