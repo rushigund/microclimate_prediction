@@ -31,7 +31,7 @@ Integrating diverse urban design parameters: Combining architectural features wi
 
 Actionable insights for urban planners: Directly informing design decisions with data-driven predictions.
 
-Potential AI/ML Approaches & Techniques to Showcase:
+Potential AI/ML Approaches & Techniques to Showcase
 
 Data Collection & Feature Engineering:
 
