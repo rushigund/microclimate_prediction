@@ -33,7 +33,7 @@ Actionable insights for urban planners: Directly informing design decisions with
 
 Potential AI/ML Approaches & Techniques to Showcase:
 
-Data Collection & Feature Engineering
+Data Collection & Feature Engineering:
 
 Satellite Imagery/LIDAR Data: For existing urban structures, vegetation, climate overview and topography.
 
