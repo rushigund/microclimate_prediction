@@ -37,7 +37,7 @@ Data Collection & Feature Engineering:
 
 Satellite Imagery/LIDAR Data: For existing urban structures, vegetation, climate overview and topography.
 
-Open-source Climate Data: Historical weather data, general forecasts.
+Open-source Climate Data: Historical weather data, general forecasts
 
 Urban Design Databases (simulated): Parameters like building materials (albedo, thermal mass), building heights, street canyon ratios, proposed plant types (leaf area index, evapotranspiration rates). You might need to generate synthetic data for proposed greening designs based on plausible scenarios.
 
