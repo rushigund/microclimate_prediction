@@ -23,7 +23,7 @@ Why this problem statement is likely be novel:
 
 While there are projects on urban heat island effect, climate modeling, and even some AI in urban planning, very few (if any) focus on:
 
-Granular, localized prediction: Most climate models operate at a much larger scale.
+Granular, localized prediction: Most climate models operate at a much larger scale
 
 Predicting impact of proposed changes: Instead of just observing current conditions, this project aims to predict the outcome of specific interventions.
 
