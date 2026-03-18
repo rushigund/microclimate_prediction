@@ -15,7 +15,7 @@ Urban areas are increasingly focusing on greening initiatives (e.g., planting tr
 
 Currently, planning for urban greening often relies on generalized climate data or expensive, high-resolution simulations. There's a lack of an easily deployable, data-driven system that can predict the localized microclimate impact of proposed urban greening designs at a granular level (e.g., street block, individual building façade) before physical implementation. This leads to suboptimal planting choices, inefficient resource allocation (water, maintenance), and less effective cooling or air purification.
 
-Project's Goal:
+Project's Goal
 
 1. Develop an AI/ML model that, given a set of urban design parameters (e.g., building height, material, existing green cover, proposed plant types, density, orientation) and general weather forecasts, can predict key microclimate indicators (e.g., localized temperature reduction, humidity levels, particulate matter dispersion) for a specific urban area.
 
