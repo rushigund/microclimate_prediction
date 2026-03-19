@@ -9,7 +9,7 @@
 
   <h1>📦 Micorclimate prediction</h1>
   <p>
-Problem Statement:
+Problem Statement
 
 Urban areas are increasingly focusing on greening initiatives (e.g., planting trees, creating rooftop gardens, vertical farms) to combat the urban heat island effect, improve air quality, and enhance biodiversity. However, the effectiveness of these initiatives can vary significantly based on localized microclimates (temperature, humidity, wind patterns, solar radiation) which are influenced by building structures, material types, and existing vegetation.
 
@@ -23,7 +23,7 @@ Why this problem statement is likely be novel:
 
 While there are projects on urban heat island effect, climate modeling, and even some AI in urban planning, very few (if any) focus on:
 
-Granular, localized prediction: Most climate models operate at a much larger scale
+Granular, localized prediction: Most climate models operate at a much larger scale.
 
 Predicting impact of proposed changes: Instead of just observing current conditions, this project aims to predict the outcome of specific interventions.
 
