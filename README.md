@@ -9,7 +9,7 @@
 
   <h1>📦 Micorclimate prediction</h1>
   <p>
-Problem Statement
+Problem Statement:
 
 Urban areas are increasingly focusing on greening initiatives (e.g., planting trees, creating rooftop gardens, vertical farms) to combat the urban heat island effect, improve air quality, and enhance biodiversity. However, the effectiveness of these initiatives can vary significantly based on localized microclimates (temperature, humidity, wind patterns, solar radiation) which are influenced by building structures, material types, and existing vegetation.
 
