@@ -66,7 +66,7 @@ Metrics: RMSE for temperature prediction, R-squared for overall model fit, possi
 Scenario Analysis: Demonstrate how different greening strategies (e.g., more trees, green roofs, specific plant species) affect the microclimate.
   </p>
 
-  <h2>📥 Installation</h2>
+  <h2>📥 Installation</h2
   <pre>
     <code>
       git clone https://github.com/rushigund/microclimate_prediction.git
