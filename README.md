@@ -57,7 +57,7 @@ Physics-Informed Neural Networks (PINNs): A more advanced approach where you emb
 
 Transfer Learning: Potentially using pre-trained models on satellite imagery or climate data and fine-tuning them for urban microclimate.
 
-Output & Evaluation
+Output & Evaluation:
 
 Visualizations: Heatmaps of predicted temperature changes, airflow patterns over the urban landscape.
 
